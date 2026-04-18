@@ -1,4 +1,4 @@
-# Airlines Data Analysis using SQL and Python
+# AirlineOps Data Insights using SQL and Python
 
 
 ## Objective
